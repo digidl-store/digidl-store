@@ -1,6 +1,6 @@
 # DigiDL
 
-Simple spreadsheet tools for meals, bills and everyday money, plus a free coloring book.
+Simple spreadsheet tools for meals, bills and everyday money, a free coloring book, and geometric animal t-shirts.
 
 **Store:** [https://digidl.gumroad.com](https://digidl.gumroad.com)
 
@@ -29,3 +29,11 @@ Keep household income, spending, recurring bills and savings goals in one Excel 
 A printable coloring book with 30+ geometric nature coloring pages of animals, plants and patterns. Print at home on US Letter paper.
 
 [Get the free coloring book](https://digidl.gumroad.com/l/geometric-nature-coloring-pages)
+
+## Geometric Animal T-Shirts
+
+Print-on-demand shirts with geometric animal designs: a bear, a giraffe, an elephant, and a sheep. Made in Canva.
+
+[Shop on TeePublic](https://www.teepublic.com/user/digitaldlstudio)
+
+[Shop on Zazzle](https://www.zazzle.com/store/digitaldlstudio)
